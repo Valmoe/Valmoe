@@ -1,8 +1,12 @@
-# Hi there, I'm Valentine Gumo 👋
+# Salut!, Valentine Gumo 👋
+IT Service Desk Support | Site Reliability Engineer (Trainee) | Network & Cloud Security Engineer
 
-## 🚀 About Me
+💡 About Me:
 
-🔹 IT Service Desk Support | Aspiring Network & Cloud Security Engineer | DevOps Enthusiast  
+Currently working in IT Service Desk with 2+ years of experience.
+Collaborating with the DevOps team as an SRE trainee, focusing on infrastructure, services, and website monitoring.
+Passionate about platform security, cloud security, and system reliability.
+
 🔹 Passionate about infrastructure automation, cloud security, and system administration  
 🔹 Experienced in IT operations, monitoring, and system support  
 
