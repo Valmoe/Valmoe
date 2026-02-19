@@ -1,56 +1,144 @@
-# Salut! , Valentine Gumo 👋
-IT Operations | Site Reliability Engineer (Trainee) | Aspiring Network & Cloud Security Engineer
 
-💡 About Me:
+# Create GitHub Profile README (Special repository: Valmoe/Valmoe)
+# This appears at the top of your GitHub profile
 
-🔹 Currently working in IT Service Desk with 2+ years of experience.
+github_profile_readme = '''<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Valentine%20Gumo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applications%20Support%20|%20Digital%20Health%20|%20Cloud%20Infrastructure&descAlignY=55&descSize=18" />
 
-🔹 Collaborating with the DevOps team as an SRE trainee, focusing on infrastructure, services, and website monitoring.
+  <!-- Badges -->
+  <p>
+    <a href="https://valmoe.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/valentine-gumo-3275b5236" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:gumovalentine@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Nairobi,%20Kenya-10b981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </p>
 
-🔹 Passionate about platform security, cloud security, and system reliability.
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Valmoe&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-📜 Certifications:
-
-✅ Certified Network Security Practitioner (CNSP) | ✅ Cloud & Network Security | ✅ ITIL 4 Foundation
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming & Scripting:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-
-### 🗄 Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
-
-### ☁️ Cloud & Infrastructure:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
-### 📊 Monitoring & Observability:
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)    
-
-### 🔒 Security & Networking:
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9?style=for-the-badge&logo=cisco&logoColor=white)  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-005571?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Nessus](https://img.shields.io/badge/Nessus-FF6C37?style=for-the-badge&logo=tenable&logoColor=white)  ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-990000?style=for-the-badge&logo=security&logoColor=white)  
-
-### ⚙️ IT Operations & DevOps Tools:
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  ![ServiceNow](https://img.shields.io/badge/ServiceNow-313131?style=for-the-badge&logo=servicenow&logoColor=white)  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+</div>
 
 ---
 
-## 🔥 Projects & Contributions
+## 👨‍💻 About Me
 
-🚀 **[Website Monitoring with Grafana & Prometheus](https://github.com/your-username/your-repo)**  
-📊 **[Flight Booking Website Monitoring System](https://github.com/your-username/your-repo)**  
-🔧 **[IT Service Desk Automation Scripts](https://github.com/your-username/your-repo)**  
+I'm an **Applications Support Technician** with **4+ years** of experience supporting and scaling **digital health systems** in production environments across Africa. Currently working with **Médecins Sans Frontières** to ensure high availability of critical e-health platforms.
+
+### 🎯 What I Do
+- 🔧 **Applications Support**: DHIS2, CHT (Community Health Toolkit), KoboToolbox, SurveyCTO
+- ☁️ **Cloud Infrastructure**: Azure, AWS, Kubernetes, Docker
+- 📊 **Monitoring & Observability**: Grafana, Prometheus, ELK Stack
+- 🔒 **Security**: Cloud security, IAM, vulnerability assessments
+- 🚀 **Automation**: PowerShell, Python, CI/CD pipelines
+
+### 🌍 Languages
+- 🇬🇧 English (Fluent)
+- 🇫🇷 French (Proficient) 
+- 🇰🇪 Swahili (Native)
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valmoe&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valmoe&layout=compact&theme=radical)  
+## 🛠️ Tech Stack
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white)
+
+### 🏥 Digital Health
+![DHIS2](https://img.shields.io/badge/DHIS2-1c3b68?style=flat-square&logo=dhis2&logoColor=white)
+![CHT](https://img.shields.io/badge/CHT-5B2E6E?style=flat-square&logo=medicmobile&logoColor=white)
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentine-gumo-3275b5236/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+## 📈 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Valmoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages" height="165" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Grafana-Monitoring-Stack](https://github.com/Valmoe/grafana-monitoring-stack)
+Complete monitoring solution using Grafana, Prometheus, and Alertmanager for infrastructure observability.
+- **Tech**: Grafana, Prometheus, Docker, Linux
+- **Features**: Custom dashboards, alerting rules, multi-target monitoring
+
+### 🤖 [IT-Automation-Scripts](https://github.com/Valmoe/it-automation-scripts)
+PowerShell and Python scripts for IT Service Desk automation and system administration.
+- **Tech**: PowerShell, Python, REST APIs
+- **Features**: User provisioning, ticket routing, system health checks
+
+### ☁️ [Cloud-Infrastructure-Templates](https://github.com/Valmoe/cloud-infrastructure-templates)
+Infrastructure as Code templates for Azure and AWS deployments.
+- **Tech**: Terraform, Kubernetes, Azure, AWS
+- **Features**: Modular templates, security best practices, CI/CD integration
+
+---
+
+## 🏆 Certifications
+
+- ✅ **KCNA** - Kubernetes and Cloud Native Associate (Linux Foundation)
+- ✅ **DHIS2 System Administration** - University of Oslo
+- ✅ **Cloud & Network Security** - Cyber Shujaa Program
+- ✅ **CompTIA Security+**
+- ✅ **CNSP** - Certified Network Security Practitioner
+- ✅ **ITIL 4 Foundation**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://valmoe.github.io)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentine-gumo-3275b5236)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gumovalentine@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+25495429399)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=100&section=footer" />
+</div>
+'''
+
+# Save the profile README
+with open('/mnt/kimi/output/PROFILE_README.md', 'w', encoding='utf-8') as f:
+    f.write(github_profile_readme)
+
+print("✅ GitHub Profile README created!")
+print("\n📋 Instructions:")
+print("1. Create a repository named EXACTLY: Valmoe")
+print("2. Make it PUBLIC")
+print("3. Add this README.md file")
+print("4. It will automatically appear on your GitHub profile!")
