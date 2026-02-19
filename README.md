@@ -112,4 +112,3 @@ Infrastructure as Code templates for Azure and AWS deployments.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=100&section=footer" />
 </div>
-'''
