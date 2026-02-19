@@ -1,15 +1,11 @@
-
-# Create GitHub Profile README (Special repository: Valmoe/Valmoe)
-# This appears at the top of your GitHub profile
-
-github_profile_readme = '''<div align="center">
+<div align="center">
   
   <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Valentine%20Gumo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applications%20Support%20|%20Digital%20Health%20|%20Cloud%20Infrastructure&descAlignY=55&descSize=18" />
 
   <!-- Badges -->
   <p>
-    <a href="https://valmoe.github.io" target="_blank">
+    <a href="https://valmoe.github.io/valentinegumo.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/valentine-gumo-3275b5236" target="_blank">
@@ -70,20 +66,6 @@ I'm an **Applications Support Technician** with **4+ years** of experience suppo
 ![DHIS2](https://img.shields.io/badge/DHIS2-1c3b68?style=flat-square&logo=dhis2&logoColor=white)
 ![CHT](https://img.shields.io/badge/CHT-5B2E6E?style=flat-square&logo=medicmobile&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Valmoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages" height="165" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 📊 [Grafana-Monitoring-Stack](https://github.com/Valmoe/grafana-monitoring-stack)
@@ -118,7 +100,7 @@ Infrastructure as Code templates for Azure and AWS deployments.
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://valmoe.github.io)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://valmoe.github.io/valentinegumo.github.io/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentine-gumo-3275b5236)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gumovalentine@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+25495429399)
@@ -131,14 +113,3 @@ Infrastructure as Code templates for Azure and AWS deployments.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=100&section=footer" />
 </div>
 '''
-
-# Save the profile README
-with open('/mnt/kimi/output/PROFILE_README.md', 'w', encoding='utf-8') as f:
-    f.write(github_profile_readme)
-
-print("✅ GitHub Profile README created!")
-print("\n📋 Instructions:")
-print("1. Create a repository named EXACTLY: Valmoe")
-print("2. Make it PUBLIC")
-print("3. Add this README.md file")
-print("4. It will automatically appear on your GitHub profile!")
