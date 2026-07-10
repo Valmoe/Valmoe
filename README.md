@@ -1,163 +1,191 @@
 <div align="center">
 
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Valentine%20Gumo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Health%20|%20Data%20Systems%20Specialist&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16241E,50:0B6E6E,100:3F8F5F&height=190&section=header&text=Valentine%20Gumo&fontSize=46&fontColor=EEF0E8&animation=fadeIn&fontAlignY=38&desc=Digital%20Health%20%26%20Data%20Systems%20Specialist&descAlignY=58&descSize=17&fontFamily=IBM+Plex+Mono" />
 
-  <!-- Badges -->
-  <p>
-    <a href="https://valmoe.github.io/valentinegumo.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/valentine-gumo-3275b5236" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:gumovalentine@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Nairobi,%20Kenya-10b981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  </p>
+<img src="https://img.shields.io/badge/FORM-VG--04-16241E?style=for-the-badge&labelColor=EEF0E8&color=16241E" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-3F8F5F?style=for-the-badge&labelColor=EEF0E8" />
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Valmoe&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<br>
+
+<table align="center">
+<tr><td><b>NAME</b></td><td>Valentine Gumo</td><td><b>BASE</b></td><td>Nairobi, Kenya</td></tr>
+<tr><td><b>ROLE</b></td><td>Data Systems Specialist</td><td><b>MISSIONS</b></td><td>10+ countries</td></tr>
+<tr><td><b>CURRENT POST</b></td><td>MSF–OCBA</td><td><b>LANGUAGES</b></td><td>EN / FR / SW</td></tr>
+</table>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B6E6E?style=for-the-badge&logo=googlechrome&logoColor=EEF0E8)](https://valmoe.github.io/valentinegumo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16241E?style=for-the-badge&logo=linkedin&logoColor=EEF0E8)](https://linkedin.com/in/valentine-gumo-3275b5236)
+[![Email](https://img.shields.io/badge/Email-B15C2A?style=for-the-badge&logo=gmail&logoColor=EEF0E8)](mailto:gumovalentine@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=Valmoe&color=0B6E6E&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Valmoe)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### `Q1` · About
 
-I'm a **Digital Health & Data Systems Specialist** with **4+ years** of experience designing, deploying, administering, and optimizing data platforms and information systems across humanitarian and development programs. I build and maintain end-to-end data pipelines, integrate data from APIs and digital health platforms, implement data quality controls, and support analytics and reporting across multi-country operations.
+Digital Health & Data Systems Specialist with **4+ years** designing, deploying, and administering data platforms across humanitarian and development programs. Currently technical owner of **DHIS2**, **CHT**, and **Kobo Toolbox** across **10+ country missions** at **Médecins Sans Frontières (OCBA)**. Pursuing an MSc in Information Technology, specializing further in data engineering, cloud infrastructure, and data governance.
 
-Currently serving as **Applications Support Officer (e-Health & Data Systems)** at **Médecins Sans Frontières (MSF-OCBA)**, Barcelona/Remote, providing technical ownership of **DHIS2**, **Community Health Toolkit (CHT)**, and **Kobo Toolbox** platforms supporting **10+ country missions**.
-
-Pursuing an **MSc in Information Technology**, with growing specialization in data engineering, cloud infrastructure, system monitoring, and data governance.
-
-### 🎯 What I Do
-- 🏥 **Digital Health & Data Collection Platforms**: DHIS2, CHT (Community Health Toolkit), Kobo Toolbox, ODK, SurveyCTO
-- 🔄 **Data Quality, Cleaning & ETL**: ETL/ELT pipelines, QA/QC protocols, codebooks, data validation frameworks, third-party tool integration
-- 📊 **Analysis & Visualization**: Apache Superset, R-Shiny, Power BI, SQL, Python, Excel/Google Sheets
-- 🖥️ **Systems Administration & ITSM**: user provisioning & access control, ITIL 4-aligned incident/change management, SOPs & runbooks
-- 🔒 **Cloud & Information Security**: self-hosting of data collection tools, system monitoring, data protection practices
-- 🎓 **Training & Capacity Building**: user onboarding, training design & facilitation, field mentorship, knowledge-transfer documentation
-
-### 🌍 Languages
-- 🇬🇧 English (Fluent)
-- 🇫🇷 French (Fluent)
-- 🇰🇪 Swahili (Native)
+<table align="center">
+<tr>
+<td align="center"><b>4+</b><br><sub>YEARS EXPERIENCE</sub></td>
+<td align="center"><b>10+</b><br><sub>COUNTRY MISSIONS</sub></td>
+<td align="center"><b>500+</b><br><sub>FIELD USERS TRAINED</sub></td>
+<td align="center"><b>3</b><br><sub>LANGUAGES</sub></td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### `Q2` · Skills
 
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+<table>
+<tr><td valign="top" width="33%">
 
-### 🏥 Digital Health & Data Collection
-![DHIS2](https://img.shields.io/badge/DHIS2-1c3b68?style=flat-square&logo=dhis2&logoColor=white)
-![CHT](https://img.shields.io/badge/CHT-5B2E6E?style=flat-square&logo=medicmobile&logoColor=white)
-![KoboToolbox](https://img.shields.io/badge/Kobo_Toolbox-2E86AB?style=flat-square&logo=data&logoColor=white)
-![ODK](https://img.shields.io/badge/ODK-4CAF50?style=flat-square&logo=data&logoColor=white)
-![SurveyCTO](https://img.shields.io/badge/SurveyCTO-F5A623?style=flat-square&logo=data&logoColor=white)
+**PROGRAMMING & DATA**
+- [x] Python
+- [x] SQL
+- [x] PowerShell & Bash
+- [x] ETL / ELT pipelines
+- [x] API-based data exchange
 
-### 📊 Analysis & Visualization
-![Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apache&logoColor=white)
-![R-Shiny](https://img.shields.io/badge/R--Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+</td><td valign="top" width="33%">
 
-### ☁️ Cloud, Monitoring & Security
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+**DIGITAL HEALTH & COLLECTION**
+- [x] DHIS2
+- [x] CHT (Community Health Toolkit)
+- [x] Kobo Toolbox & ODK
+- [x] SurveyCTO
+- [x] Form & workflow design
 
-### 🖥️ Systems & Service Management
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=flat-square&logo=servicenow&logoColor=white)
-![ITIL4](https://img.shields.io/badge/ITIL_4-00A651?style=flat-square&logo=itilfoundation&logoColor=white)
+</td><td valign="top" width="33%">
+
+**ANALYSIS & VISUALIZATION**
+- [x] Apache Superset
+- [x] R-Shiny
+- [x] Power BI
+- [x] Excel / Google Sheets
+
+</td></tr>
+<tr><td valign="top" width="33%">
+
+**CLOUD & INFRASTRUCTURE**
+- [x] Azure
+- [x] Kubernetes
+- [x] Grafana & Prometheus
+- [x] Self-hosted data tools
+
+</td><td valign="top" width="33%">
+
+**ITSM & SUPPORT**
+- [x] ServiceNow
+- [x] ITIL 4 incident/change mgmt
+- [x] SOPs & runbooks
+
+</td><td valign="top" width="33%">
+
+**TRAINING & CAPACITY BUILDING**
+- [x] User onboarding
+- [x] Training design & facilitation
+- [x] Knowledge-transfer docs
+
+</td></tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+### `Q3` · Record Log — Experience
 
-### Applications Support Officer (e-Health & Data Systems)
-**Médecins Sans Frontières – OCBA** | Barcelona/Remote | *Sep 2025 – Present*
-- Technical owner of DHIS2, CHT, and Kobo Toolbox across 10+ country missions — user provisioning, access control, form configuration, and platform-level troubleshooting
-- Ensure data integrity through structured quality reviews, resolving incidents within SLA via ITIL 4-aligned ITSM workflows
-- Diagnose data collection failures in low-connectivity field environments across application, network, and user layers
-- Produce SOPs, incident reports, configuration records, and knowledge base articles for field self-service
-- Support API-based data exchange and troubleshoot data synchronization across distributed environments
+<details open>
+<summary><b>Applications Support Officer (e-Health & Data Systems)</b> — Médecins Sans Frontières · OCBA <img src="https://img.shields.io/badge/ACTIVE-3F8F5F?style=flat-square"> <sub>Sep 2025 – Present</sub></summary>
+<br>
 
-### Regional Digital Health Support Officer (Data Systems)
-**Living Goods** | Kenya | *Dec 2022 – Sep 2025*
-- Co-designed survey and data collection forms with health specialists in ODK, SurveyCTO, Kobo Toolbox, and CHT
-- Owned the data pipeline end-to-end: skip-logic/validation rules, onboarding 500+ field users, data cleaning, and dashboarding in Superset and R-Shiny
+- Technical owner of DHIS2, CHT, and Kobo Toolbox across 10+ country missions
+- User provisioning, access control, and platform-level troubleshooting
+- Data integrity reviews and ITIL 4-aligned incident/change management within SLA
+- Root-cause diagnosis of data collection failures in low-connectivity field environments
+- API-based data exchange support and cross-country data synchronization troubleshooting
+
+</details>
+
+<details>
+<summary><b>Regional Digital Health Support Officer (Data Systems)</b> — Living Goods <img src="https://img.shields.io/badge/CLOSED-6B6F63?style=flat-square"> <sub>Dec 2022 – Sep 2025</sub></summary>
+<br>
+
+- Co-designed survey and data collection forms in ODK, SurveyCTO, Kobo Toolbox, and CHT
+- Owned the data pipeline end-to-end: validation rules, onboarding 500+ field users, dashboarding in Superset and R-Shiny
 - Supported CHT deployment later adopted into Kenya's national community health information system
-- Supported ERP commodity-tracking system testing, field UATs, and vendor collaboration
+- Tested and supported commodity-tracking ERP system, including field UATs
 - Designed and facilitated training programs, building internal knowledge-transfer culture
 
-### Customer Service Assistant
-**ABSA Bank Kenya PLC** | Nairobi | *Sep 2022 – Nov 2022*
-- Resolved customer technical queries via ServiceNow CRM, building hands-on ITSM workflow experience
+</details>
 
-### ICT Clerk
-**Independent Electoral and Boundaries Commission** | Kenya | *Jun 2022 – Aug 2022*
-- Configured and tested KIEMS field hardware kits, providing on-site support during the 2022 General Election
+<details>
+<summary><b>Customer Service Assistant</b> — ABSA Bank Kenya PLC <img src="https://img.shields.io/badge/CLOSED-6B6F63?style=flat-square"> <sub>Sep 2022 – Nov 2022</sub></summary>
+<br>
+
+- Resolved customer technical queries via ServiceNow CRM
+- Coordinated with backend teams, building hands-on ITSM workflow experience
+
+</details>
+
+<details>
+<summary><b>ICT Clerk</b> — Independent Electoral and Boundaries Commission <img src="https://img.shields.io/badge/CLOSED-6B6F63?style=flat-square"> <sub>Jun 2022 – Aug 2022</sub></summary>
+<br>
+
+- Configured and tested KIEMS field hardware kits
+- Provided on-site technical support during the 2022 General Election
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
+### `Q4` · Credentials
 
-### 📊 [Grafana-Monitoring-Stack](https://github.com/Valmoe/grafana-monitoring-stack)
+| Certification | Issuer |
+|---|---|
+| ✅ Kubernetes and Cloud Native Associate (KCNA) | The Linux Foundation |
+| ✅ DHIS2 System Administration & Configuration | DHIS2 Academy / University of Oslo |
+| ✅ Cloud & Network Security | Cyber Shujaa Program (Serianu/USIU-Africa/KBA) |
+| ✅ CompTIA Security+ | CompTIA |
+| ✅ Certified Network Security Practitioner (CNSP) | The SecOps Group |
+| ✅ ITIL 4 Foundation | IT Service Management |
+
+---
+
+### `Q5` · Featured Projects
+
+**[Grafana-Monitoring-Stack](https://github.com/Valmoe/grafana-monitoring-stack)**
 Complete monitoring solution using Grafana, Prometheus, and Alertmanager for infrastructure observability.
-- **Tech**: Grafana, Prometheus, Docker, Linux
-- **Features**: Custom dashboards, alerting rules, multi-target monitoring
+`Grafana` `Prometheus` `Docker` `Linux`
 
-### 🤖 [IT-Automation-Scripts](https://github.com/Valmoe/it-automation-scripts)
+**[IT-Automation-Scripts](https://github.com/Valmoe/it-automation-scripts)**
 PowerShell and Python scripts for IT Service Desk automation and system administration.
-- **Tech**: PowerShell, Python, REST APIs
-- **Features**: User provisioning, ticket routing, system health checks
+`PowerShell` `Python` `REST APIs`
 
-### ☁️ [Cloud-Infrastructure-Templates](https://github.com/Valmoe/cloud-infrastructure-templates)
+**[Cloud-Infrastructure-Templates](https://github.com/Valmoe/cloud-infrastructure-templates)**
 Infrastructure as Code templates for Azure and AWS deployments.
-- **Tech**: Terraform, Kubernetes, Azure, AWS
-- **Features**: Modular templates, security best practices, CI/CD integration
+`Terraform` `Kubernetes` `Azure` `AWS`
 
 ---
 
-## 🎓 Education
-
-**MSc Information Technology** — Jomo Kenyatta University of Agriculture & Technology, Kenya *(Ongoing)*
-**BSc Information Technology**, Second Class Upper Division — Jomo Kenyatta University of Agriculture & Technology, Kenya *(2022)*
-
----
-
-## 🏆 Certifications
-
-- ✅ **ITIL 4 Foundation** — IT Service Management, PeopleCert
-- ✅ **KCNA** — Kubernetes and Cloud Native Associate, The Linux Foundation
-- ✅ **DHIS2 System Administration** - University of Oslo
-- ✅ **Cloud & Network Security** - Cyber Shujaa Program
-- ✅ **CompTIA Security+**
-- ✅ **CNSP** - Certified Network Security Practitioner
-
----
-
-## 📫 Connect With Me
+### `Submit` · Contact
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://valmoe.github.io/valentinegumo.github.io/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentine-gumo-3275b5236)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gumovalentine@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254954429399)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B6E6E?style=for-the-badge&logo=googlechrome&logoColor=EEF0E8)](https://valmoe.github.io/valentinegumo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16241E?style=for-the-badge&logo=linkedin&logoColor=EEF0E8)](https://linkedin.com/in/valentine-gumo-3275b5236)
+[![Email](https://img.shields.io/badge/Email-B15C2A?style=for-the-badge&logo=gmail&logoColor=EEF0E8)](mailto:gumovalentine@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-3F8F5F?style=for-the-badge&logo=whatsapp&logoColor=EEF0E8)](tel:+254954429399)
 
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8F5F,50:0B6E6E,100:16241E&height=100&section=footer" />
 </div>
