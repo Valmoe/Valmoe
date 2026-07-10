@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16241E,50:0B6E6E,100:3F8F5F&height=190&section=header&text=Valentine%20Gumo&fontSize=46&fontColor=EEF0E8&animation=fadeIn&fontAlignY=38&desc=Digital%20Health%20%26%20Data%20Systems%20Specialist&descAlignY=58&descSize=17&fontFamily=IBM+Plex+Mono" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Valentine%20Gumo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Health%20|%20Data%20Systems%20Specialist&descAlignY=55&descSize=18" />
 
 <img src="https://img.shields.io/badge/FORM-VG--04-16241E?style=for-the-badge&labelColor=EEF0E8&color=16241E" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-3F8F5F?style=for-the-badge&labelColor=EEF0E8" />
