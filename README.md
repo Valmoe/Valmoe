@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Valentine%20Gumo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Health%20%26%20Data%20Systems%20Specialist&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Valentine%20Gumo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applications%20Support%20|%20Digital%20Health%20|%20Cloud%20Infrastructure&descAlignY=55&descSize=18" />
 
   <!-- Badges -->
   <p>
