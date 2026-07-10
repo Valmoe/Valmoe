@@ -138,6 +138,10 @@ Infrastructure as Code templates for Azure and AWS deployments.
 
 - ✅ **ITIL 4 Foundation** — IT Service Management, PeopleCert
 - ✅ **KCNA** — Kubernetes and Cloud Native Associate, The Linux Foundation
+- ✅ **DHIS2 System Administration** - University of Oslo
+- ✅ **Cloud & Network Security** - Cyber Shujaa Program
+- ✅ **CompTIA Security+**
+- ✅ **CNSP** - Certified Network Security Practitioner
 
 ---
 
