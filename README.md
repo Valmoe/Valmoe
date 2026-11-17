@@ -28,7 +28,19 @@
 
 ### `Q1` · About
 
-Digital Health & Data Systems Specialist with **4+ years** designing, deploying, and administering data platforms across humanitarian and development programs. Currently technical owner of **DHIS2**, **CHT**, and **Kobo Toolbox** across **10+ country missions** at **Médecins Sans Frontières (OCBA)**. Pursuing an MSc in Information Technology, specializing further in data engineering, cloud infrastructure, and data governance.
+I design, deploy and lead digital health solutions that work in the field.
+
+At Médecins Sans Frontières (OCBA) I am the technical owner of DHIS2, Community Health Toolkit (CHT) and KoboToolbox, supporting 10+ country missions. Before that, at Living Goods, I gave technical assistance to Busia County health teams and supported the CHT deployment later adopted into Kenya's national community health information system.
+
+What I bring:
+• Technical leadership: feasibility studies, requirements, scoping, vendor coordination, UAT and controlled rollouts
+• User-centered form and data model design that keeps data accurate, reliable and ethical
+• Integration and automation with Python and Node.js (Kobo to DHIS2, DHIS2 Web API, CHT API)
+• Dashboards in Apache Superset, Power BI and R-Shiny that support decisions
+• Cloud and service management: AWS, Entra ID, ITIL 4, incident and problem management
+• Training and coaching of government and field teams in English, French and Swahili
+
+Completing an MSc in Information Technology (JKUAT), specializing in data engineering, cloud infrastructure and data governance.
 
 <table align="center">
 <tr>
